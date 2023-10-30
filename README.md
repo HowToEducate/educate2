@@ -1,2 +1,2 @@
 # educate2
-Educate2
+Educate
